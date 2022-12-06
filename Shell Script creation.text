@@ -1,0 +1,3 @@
+touch file name
+chmod +X Filename(permission)
+./filename.sh 
